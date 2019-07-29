@@ -1,0 +1,19 @@
+current directory: /home/sebdur/Desktop/projects/ruby_or/desafio2/vendor/bundle/gems/byebug-11.0.1/ext/byebug
+/home/sebdur/.rvm/rubies/ruby-2.5.3/bin/ruby -r ./siteconf20190704-3572-1x7qtcj.rb extconf.rb
+creating Makefile
+
+current directory: /home/sebdur/Desktop/projects/ruby_or/desafio2/vendor/bundle/gems/byebug-11.0.1/ext/byebug
+make "DESTDIR=" clean
+
+current directory: /home/sebdur/Desktop/projects/ruby_or/desafio2/vendor/bundle/gems/byebug-11.0.1/ext/byebug
+make "DESTDIR="
+compiling breakpoint.c
+compiling byebug.c
+compiling context.c
+compiling locker.c
+compiling threads.c
+linking shared-object byebug/byebug.so
+
+current directory: /home/sebdur/Desktop/projects/ruby_or/desafio2/vendor/bundle/gems/byebug-11.0.1/ext/byebug
+make "DESTDIR=" install
+/usr/bin/install -m 0755 byebug.so ./.gem.20190704-3572-17yickq/byebug
